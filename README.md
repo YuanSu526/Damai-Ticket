@@ -5,6 +5,7 @@ Virtual Environment: Pycharm
 Library requirement: Selenium
 
 Usage:
+ - Go to [Drive Link](https://drive.google.com/drive/folders/1nFzohtHdDflP6vHqtlzoxTS5YBmmSr-t?usp=drive_link)
  - Place all files in the same directory
  - Download Selenium Library
  - Run damai.py
